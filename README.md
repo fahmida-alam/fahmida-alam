@@ -26,3 +26,21 @@ Curious about where <b>data, software and automation</b> can solve
     alt="Fahmida's GitHub Streak"
   />
 </p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahmida-alam-409089264">
+    <img src="https://img.shields.io/badge/LinkedIn-Fahmida%20Alam-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:fahmidaalam.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-fahmidaalam.official%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+<p align="center">
+Always happy to connect, collaborate, or talk about tech, data and interesting ideas 🚀
+</p>
